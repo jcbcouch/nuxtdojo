@@ -1,0 +1,2 @@
+npx nuxi init .
+npm run dev
